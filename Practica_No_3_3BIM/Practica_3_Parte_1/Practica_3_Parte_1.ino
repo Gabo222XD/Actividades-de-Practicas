@@ -47,7 +47,7 @@ Pacman_Matrix.shutdown(0, false);
 Pacman_Matrix.setIntensity(0, 15);
 Pacman_Matrix.clearDisplay(0);
 Serial.println("Uso de la matriz led");
-pinMode(potenciometro, INPUT);
+
 }
 
 void loop() {
